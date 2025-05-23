@@ -14,8 +14,8 @@ This portfolio includes hands-on projects that demonstrate my testing workflow, 
 - **Bug report** with severity, priority, and steps to reproduce
 
 📁 Files:
-- [`ManualTesting/TestPlan.pdf`](./ManualTesting/TestPlan.pdf)
-- [`ManualTesting/TestCases.xlsx`](./ManualTesting/TestCases.xlsx)
+- [`ManualTesting-DemoWebshop/TestPlan.pdf`](./ManualTesting-DemoWebshop/TestPlan.pdf)
+- [`ManualTesting-DemoWebshop/TestCases.xlsx`](./ManualTesting-DemoWebshop/TestCases.xlsx)
 - [`ManualTesting/BugReport.xlsx`](./ManualTesting/BugReport.xlsx)
 
 ---
