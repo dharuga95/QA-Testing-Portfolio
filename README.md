@@ -44,7 +44,7 @@ This portfolio includes hands-on projects that demonstrate my testing workflow, 
 
 ## 📄 Resume
 
-Download here: [`Resume.pdf`](./Resume.pdf)
+Download here: [`Resume.pdf`](./Resume_DharaniAnandhan.pdf)
 
 ---
 
